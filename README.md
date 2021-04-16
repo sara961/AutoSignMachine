@@ -36,6 +36,7 @@ UNICOM_APPID = 'xxxxxx' # 将 xxxxxx 替换为上面获取的 appid
 #
 #
 #
+#
 
 # 以下是原项目介绍
 # AutoSignMachine
